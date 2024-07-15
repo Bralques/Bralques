@@ -24,6 +24,6 @@
   
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bralques)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, e empenhado em sempre estar em desenvolvimento, aprendendo, e sempre buscando fazer o melhor possível!.
