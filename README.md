@@ -6,7 +6,6 @@
 )](https://www.linkedin.com/in/bralquesdev/)
 
 
-![Bralques GitHub stats](https://github-readme-stats.vercel.app/api?username=bralques&show_icons=true&theme=tokyonight)
 
 
 ## Tecnologias que eu uso no meu dia
